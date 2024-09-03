@@ -1,0 +1,7 @@
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\Mini_market.csproj.AssemblyReference.cache
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\MorderButtonTheme.baml
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\ProductForm.g.cs
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\App.g.cs
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\Mini_market_MarkupCompile.cache
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\Mini_market_MarkupCompile.lref

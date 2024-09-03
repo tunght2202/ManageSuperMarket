@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|f:\\learninunivercity\\prn221\\project\\mini_market managerment systerm\\mini_market managerment systerm\\billc_window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|solutionrelative:mini_market managerment systerm\\billc_window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|f:\\learninunivercity\\prn221\\project\\mini_market managerment systerm\\mini_market managerment systerm\\billc_window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|solutionrelative:mini_market managerment systerm\\billc_window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|f:\\learninunivercity\\prn221\\project\\mini_market managerment systerm\\mini_market managerment systerm\\bill_window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|solutionrelative:mini_market managerment systerm\\bill_window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|f:\\learninunivercity\\prn221\\project\\mini_market managerment systerm\\mini_market managerment systerm\\selling_window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|solutionrelative:mini_market managerment systerm\\selling_window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|f:\\learninunivercity\\prn221\\project\\mini_market managerment systerm\\mini_market managerment systerm\\selling_window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|solutionrelative:mini_market managerment systerm\\selling_window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|f:\\learninunivercity\\prn221\\project\\mini_market managerment systerm\\mini_market managerment systerm\\bill_window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|solutionrelative:mini_market managerment systerm\\bill_window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|f:\\learninunivercity\\prn221\\project\\mini_market managerment systerm\\mini_market managerment systerm\\seller_window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|solutionrelative:mini_market managerment systerm\\seller_window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|f:\\learninunivercity\\prn221\\project\\mini_market managerment systerm\\mini_market managerment systerm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|solutionrelative:mini_market managerment systerm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|f:\\learninunivercity\\prn221\\project\\mini_market managerment systerm\\mini_market managerment systerm\\models\\minimarketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|solutionrelative:mini_market managerment systerm\\models\\minimarketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|f:\\learninunivercity\\prn221\\project\\mini_market managerment systerm\\mini_market managerment systerm\\models\\billc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|solutionrelative:mini_market managerment systerm\\models\\billc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|f:\\learninunivercity\\prn221\\project\\mini_market managerment systerm\\mini_market managerment systerm\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|solutionrelative:mini_market managerment systerm\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|f:\\learninunivercity\\prn221\\project\\mini_market managerment systerm\\mini_market managerment systerm\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|solutionrelative:mini_market managerment systerm\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|f:\\learninunivercity\\prn221\\project\\mini_market managerment systerm\\mini_market managerment systerm\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|solutionrelative:mini_market managerment systerm\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|f:\\learninunivercity\\prn221\\project\\mini_market managerment systerm\\mini_market managerment systerm\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|solutionrelative:mini_market managerment systerm\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|f:\\learninunivercity\\prn221\\project\\mini_market managerment systerm\\mini_market managerment systerm\\seller_window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|solutionrelative:mini_market managerment systerm\\seller_window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|f:\\learninunivercity\\prn221\\project\\mini_market managerment systerm\\mini_market managerment systerm\\product_windown.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|solutionrelative:mini_market managerment systerm\\product_windown.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|f:\\learninunivercity\\prn221\\project\\mini_market managerment systerm\\mini_market managerment systerm\\category_windown.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|solutionrelative:mini_market managerment systerm\\category_windown.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|f:\\learninunivercity\\prn221\\project\\mini_market managerment systerm\\mini_market managerment systerm\\product_windown.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|solutionrelative:mini_market managerment systerm\\product_windown.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|f:\\learninunivercity\\prn221\\project\\mini_market managerment systerm\\mini_market managerment systerm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|solutionrelative:mini_market managerment systerm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|f:\\learninunivercity\\prn221\\project\\mini_market managerment systerm\\mini_market managerment systerm\\category_windown.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC439F9-7DA5-405D-B6B3-083387DE2C66}|Mini_market Managerment Systerm\\Mini_market Managerment Systerm.csproj|solutionrelative:mini_market managerment systerm\\category_windown.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BillC_Window.xaml.cs",
+              "DocumentMoniker": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\BillC_Window.xaml.cs",
+              "RelativeDocumentMoniker": "Mini_market Managerment Systerm\\BillC_Window.xaml.cs",
+              "ToolTip": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\BillC_Window.xaml.cs",
+              "RelativeToolTip": "Mini_market Managerment Systerm\\BillC_Window.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAD4vxoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:26:13.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BillC_Window.xaml",
+              "DocumentMoniker": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\BillC_Window.xaml",
+              "RelativeDocumentMoniker": "Mini_market Managerment Systerm\\BillC_Window.xaml",
+              "ToolTip": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\BillC_Window.xaml",
+              "RelativeToolTip": "Mini_market Managerment Systerm\\BillC_Window.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-22T08:21:31.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Selling_Window.xaml.cs",
+              "DocumentMoniker": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\Selling_Window.xaml.cs",
+              "RelativeDocumentMoniker": "Mini_market Managerment Systerm\\Selling_Window.xaml.cs",
+              "ToolTip": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\Selling_Window.xaml.cs",
+              "RelativeToolTip": "Mini_market Managerment Systerm\\Selling_Window.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwI8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T06:34:19.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Mini_market Managerment Systerm\\Models\\Product.cs",
+              "ToolTip": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\Models\\Product.cs",
+              "RelativeToolTip": "Mini_market Managerment Systerm\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T07:14:40.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bill_Window.xaml",
+              "DocumentMoniker": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\Bill_Window.xaml",
+              "RelativeDocumentMoniker": "Mini_market Managerment Systerm\\Bill_Window.xaml",
+              "ToolTip": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\Bill_Window.xaml",
+              "RelativeToolTip": "Mini_market Managerment Systerm\\Bill_Window.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-22T05:14:06.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bill_Window.xaml.cs",
+              "DocumentMoniker": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\Bill_Window.xaml.cs",
+              "RelativeDocumentMoniker": "Mini_market Managerment Systerm\\Bill_Window.xaml.cs",
+              "ToolTip": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\Bill_Window.xaml.cs",
+              "RelativeToolTip": "Mini_market Managerment Systerm\\Bill_Window.xaml.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAEwEkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T06:03:40.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Seller_Window.xaml",
+              "DocumentMoniker": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\Seller_Window.xaml",
+              "RelativeDocumentMoniker": "Mini_market Managerment Systerm\\Seller_Window.xaml",
+              "ToolTip": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\Seller_Window.xaml",
+              "RelativeToolTip": "Mini_market Managerment Systerm\\Seller_Window.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-22T06:04:02.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Selling_Window.xaml",
+              "DocumentMoniker": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\Selling_Window.xaml",
+              "RelativeDocumentMoniker": "Mini_market Managerment Systerm\\Selling_Window.xaml",
+              "ToolTip": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\Selling_Window.xaml",
+              "RelativeToolTip": "Mini_market Managerment Systerm\\Selling_Window.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-22T06:00:14.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "minimarketdbContext.cs",
+              "DocumentMoniker": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\Models\\minimarketdbContext.cs",
+              "RelativeDocumentMoniker": "Mini_market Managerment Systerm\\Models\\minimarketdbContext.cs",
+              "ToolTip": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\Models\\minimarketdbContext.cs",
+              "RelativeToolTip": "Mini_market Managerment Systerm\\Models\\minimarketdbContext.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwDIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:09:55.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BillC.cs",
+              "DocumentMoniker": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\Models\\BillC.cs",
+              "RelativeDocumentMoniker": "Mini_market Managerment Systerm\\Models\\BillC.cs",
+              "ToolTip": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\Models\\BillC.cs",
+              "RelativeToolTip": "Mini_market Managerment Systerm\\Models\\BillC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T07:27:13.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\Models\\Bill.cs",
+              "RelativeDocumentMoniker": "Mini_market Managerment Systerm\\Models\\Bill.cs",
+              "ToolTip": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\Models\\Bill.cs",
+              "RelativeToolTip": "Mini_market Managerment Systerm\\Models\\Bill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T07:12:43.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Mini_market Managerment Systerm\\MainWindow.xaml",
+              "ToolTip": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\MainWindow.xaml",
+              "RelativeToolTip": "Mini_market Managerment Systerm\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-22T06:34:29.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Mini_market Managerment Systerm\\MainWindow.xaml.cs",
+              "ToolTip": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Mini_market Managerment Systerm\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowFYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T06:34:24.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\Models\\Seller.cs",
+              "RelativeDocumentMoniker": "Mini_market Managerment Systerm\\Models\\Seller.cs",
+              "ToolTip": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\Models\\Seller.cs",
+              "RelativeToolTip": "Mini_market Managerment Systerm\\Models\\Seller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:05:00.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Role.cs",
+              "DocumentMoniker": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Mini_market Managerment Systerm\\Models\\Role.cs",
+              "ToolTip": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\Models\\Role.cs",
+              "RelativeToolTip": "Mini_market Managerment Systerm\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:05:02.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Seller_Window.xaml.cs",
+              "DocumentMoniker": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\Seller_Window.xaml.cs",
+              "RelativeDocumentMoniker": "Mini_market Managerment Systerm\\Seller_Window.xaml.cs",
+              "ToolTip": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\Seller_Window.xaml.cs",
+              "RelativeToolTip": "Mini_market Managerment Systerm\\Seller_Window.xaml.cs",
+              "ViewState": "AQIAAOcAAAAAAAAAAAAAAPgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T06:03:54.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product_Windown.xaml.cs",
+              "DocumentMoniker": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\Product_Windown.xaml.cs",
+              "RelativeDocumentMoniker": "Mini_market Managerment Systerm\\Product_Windown.xaml.cs",
+              "ToolTip": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\Product_Windown.xaml.cs",
+              "RelativeToolTip": "Mini_market Managerment Systerm\\Product_Windown.xaml.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAswGcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T06:46:00.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Category_Windown.xaml",
+              "DocumentMoniker": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\Category_Windown.xaml",
+              "RelativeDocumentMoniker": "Mini_market Managerment Systerm\\Category_Windown.xaml",
+              "ToolTip": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\Category_Windown.xaml",
+              "RelativeToolTip": "Mini_market Managerment Systerm\\Category_Windown.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-22T06:37:06.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Product_Windown.xaml",
+              "DocumentMoniker": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\Product_Windown.xaml",
+              "RelativeDocumentMoniker": "Mini_market Managerment Systerm\\Product_Windown.xaml",
+              "ToolTip": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\Product_Windown.xaml",
+              "RelativeToolTip": "Mini_market Managerment Systerm\\Product_Windown.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-22T06:37:58.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Category_Windown.xaml.cs",
+              "DocumentMoniker": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\Category_Windown.xaml.cs",
+              "RelativeDocumentMoniker": "Mini_market Managerment Systerm\\Category_Windown.xaml.cs",
+              "ToolTip": "F:\\learnInUnivercity\\PRN221\\Project\\Mini_market Managerment Systerm\\Mini_market Managerment Systerm\\Category_Windown.xaml.cs",
+              "RelativeToolTip": "Mini_market Managerment Systerm\\Category_Windown.xaml.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAiwHwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T06:29:35.386Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

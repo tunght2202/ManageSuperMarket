@@ -1,0 +1,199 @@
+﻿<Window x:Class="Mini_market_Managerment_Systerm.Seller_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Mini_market_Managerment_Systerm"
+        mc:Ignorable="d"
+        Title="Seller" Height="500" Width="900"
+        AllowsTransparency="True" Background="White"
+        WindowStyle="None" ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="10*"/>
+        </Grid.ColumnDefinitions>
+
+        <Border Grid.Column="1" CornerRadius="0" Grid.RowSpan="3">
+            <Border.Background>
+                <LinearGradientBrush>
+                    <GradientStop Color="#7be9f6" Offset="0.0"/>
+                    <GradientStop Color="#f083da" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+        </Border>
+        <!--menu-->
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center">
+            <Button Content="Product"  Height="40" Width="90" 
+    Foreground="#7be9f6" FontSize="25" FontWeight="Medium" Margin="0,30,0,0"
+    Background="White" BorderThickness="0px" Click="Button_Click_Product"/>
+            <Button Content="Category"  Height="40" Width="Auto" 
+    Foreground="#7be9f6" FontSize="25" 
+    FontWeight="Medium" Margin="0,10,0,0"
+    Background="White" BorderThickness="0px" Click="Button_Click_Category"/>
+            <Button Content="Seller"  Height="40" Width="Auto" 
+    Foreground="#7be9f6" FontSize="25" 
+    FontWeight="Medium" Margin="0,10,0,0"
+    Background="White" BorderThickness="0px" Click="Button_Click_Seller"/>
+            <Button Content="Bill"  Height="40" Width="Auto" 
+    Foreground="#7be9f6" FontSize="25" 
+    FontWeight="Medium" Margin="0,10,0,0"
+    Background="White" BorderThickness="0px" Click="Button_Click_Bill"/>
+            <Button Content="Logout" Height="40" Width="Auto" 
+    Foreground="#7be9f6" FontSize="25" 
+    FontWeight="Bold" Margin="0,180,0,0"
+    Background="White" BorderThickness="0px" Click="Button_Click_Logout"/>
+        </StackPanel>
+        <!--Main1-->
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="4*"/>
+            </Grid.RowDefinitions>
+
+            <!--Title-->
+            <StackPanel Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <TextBlock Text="MANAGE SELLER"
+                   Foreground="White"
+                   FontFamily="helvetical"
+                   FontSize="30"
+                   FontWeight="Bold"
+                   HorizontalAlignment="Center"/>
+            </StackPanel>
+            <!--Maine-->
+
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="5*"/>
+                    <ColumnDefinition Width="6*"/>
+                </Grid.ColumnDefinitions>
+
+                <Grid Grid.Column="0" Margin="9,10,9,10">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="6*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <Grid Grid.Column="0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="2*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <TextBox Width="215"
+                                 Height="37" Name="tbId"
+                                HorizontalAlignment="Right" Visibility="Hidden"/>
+                        <Grid Grid.Column="0" Grid.Row="0">
+                            <Label Content="Name" FontSize="18" 
+                                   FontFamily="Bahnschrift" 
+                                   Foreground="White" 
+                                   FontWeight="Bold"
+                                   VerticalContentAlignment="Center"/>
+                        </Grid>
+                        <Grid Grid.Column="1" Grid.Row="0">
+                            <TextBox Width="215"
+                                     Height="37" Name="tbName"
+                                     FontFamily="helvetical"
+                                    FontWeight="Light"
+                                    FontSize="22"
+                                    HorizontalAlignment="Right" />
+                        </Grid>
+                        <Grid Grid.Column="0" Grid.Row="1">
+                            <Label Content="Age" FontSize="18" 
+                                   FontFamily="Bahnschrift" 
+                                   Foreground="White" 
+                                   FontWeight="Bold"
+                                   VerticalContentAlignment="Center"/>
+                        </Grid>
+                        <Grid Grid.Column="1" Grid.Row="1">
+                            <TextBox Width="215"
+                                     Height="37" Name="tbAge"
+                                     FontFamily="helvetical"  FontWeight="Light"  FontSize="22"
+                                    HorizontalAlignment="Right"/>
+                        </Grid>
+                        <Grid Grid.Column="0" Grid.Row="2">
+                            <Label Content="Phone No" FontSize="18" 
+                                   FontFamily="Bahnschrift" 
+                                   Foreground="White" 
+                                   FontWeight="Bold"
+                                   VerticalContentAlignment="Center"/>
+                        </Grid>
+                        <Grid Grid.Column="1" Grid.Row="2">
+                            <TextBox Width="215"
+                                      FontFamily="helvetical"  FontWeight="Light"  FontSize="22"
+                                     Height="37" Name="tbPhone"
+                                    HorizontalAlignment="Right"/>
+                        </Grid>
+
+                        <Grid Grid.Column="0" Grid.Row="3">
+                            <Label Content="UserName" FontSize="18" 
+                                   FontFamily="Bahnschrift" 
+                                   Foreground="White" 
+                                   FontWeight="Bold"
+                                   VerticalContentAlignment="Center"/>
+                        </Grid>
+                        <Grid Grid.Column="1" Grid.Row="3">
+                            <TextBox Name="tbUserName"
+                                     Height="37" Margin="0,3,0,2" 
+                                      FontFamily="helvetical"  FontWeight="Light"  FontSize="22"
+                                     HorizontalAlignment="Right" 
+                                     Width="215"/>
+                        </Grid>
+                        <Grid Grid.Column="0" Grid.Row="4">
+                            <Label Content="Password" FontSize="18" 
+                                   FontFamily="Bahnschrift" 
+                                   Foreground="White" 
+                                   FontWeight="Bold"
+                                   VerticalContentAlignment="Center"/>
+                        </Grid>
+                        <Grid Grid.Column="1" Grid.Row="4">
+                            <TextBox Width="215"
+                                     Height="37" Name="tbPass"
+                                      FontFamily="helvetical"  FontWeight="Light"  FontSize="22"
+                                    HorizontalAlignment="Right"/>
+                        </Grid>
+                    </Grid>
+                    <StackPanel Grid.Row="1"
+                                Orientation="Horizontal" 
+                                HorizontalAlignment="Center"
+                                VerticalAlignment="Center">
+                        <Button Content="Add" Height="40" Width="90" FontSize="20" Margin="0,0,10,0" Click="Button_Click_Add"/>
+                        <Button Content="Upadte" Height="40" Width="90" FontSize="20" Margin="10,0,10,0" Click="Button_Click_Update"/>
+                        <Button Content="Delete" Height="40" Width="90" FontSize="20" Margin="10,0,0,0" Click="Button_Click"/>
+                    </StackPanel>
+                </Grid>
+                <Grid Grid.Column="1" VerticalAlignment="Top">
+                    <ListView Name="lvSeller"
+                              Height="334" Width="400" MouseLeftButtonUp="lvSeller_MouseLeftButtonUp" >
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header = "SellerId" 
+                                    DisplayMemberBinding = "{Binding SellerId}" Width = "45"/>
+                                <GridViewColumn Header = "SellerName"
+                                    DisplayMemberBinding = "{Binding SellerName}" Width = "120"/>
+                                <GridViewColumn Header = "SellerAge" 
+                                    DisplayMemberBinding = "{Binding SellerAge}" Width = "55"/>
+                                <GridViewColumn Header = "SellerPhone"
+                                    DisplayMemberBinding = "{Binding SellerPhone}" Width = "80"/>
+                                <GridViewColumn Header = "SellerPass" 
+                                    DisplayMemberBinding = "{Binding User.UserPass}" Width = "80"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </Grid>
+            </Grid>
+
+
+        </Grid>
+    </Grid>
+</Window>

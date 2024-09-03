@@ -1,0 +1,76 @@
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\Mini_market Managerment Systerm.csproj.AssemblyReference.cache
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\ModernButtonTheme.baml
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\Category_Windown.g.cs
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\Product_Windown.g.cs
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\App.g.cs
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\Mini_market Managerment Systerm_MarkupCompile.cache
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\Mini_market Managerment Systerm_MarkupCompile.lref
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\Mini_market Managerment Systerm.exe
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\appsettings.json
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\Mini_market Managerment Systerm.deps.json
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\Mini_market Managerment Systerm.runtimeconfig.json
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\Mini_market Managerment Systerm.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\Mini_market Managerment Systerm.pdb
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\Humanizer.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\App.baml
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\Category_Windown.baml
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\MainWindow.baml
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\Product_Windown.baml
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\Mini_market Managerment Systerm.g.resources
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\Mini_market Managerment Systerm.GeneratedMSBuildEditorConfig.editorconfig
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\Mini_market Managerment Systerm.AssemblyInfoInputs.cache
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\Mini_market Managerment Systerm.AssemblyInfo.cs
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\Mini_market Managerment Systerm.csproj.CoreCompileInputs.cache
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\Mini_mar.F612760D.Up2Date
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\Mini_market Managerment Systerm.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\refint\Mini_market Managerment Systerm.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\Mini_market Managerment Systerm.pdb
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\Mini_market Managerment Systerm.genruntimeconfig.cache
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\ref\Mini_market Managerment Systerm.dll
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\Seller_Window.g.cs
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\Selling_Window.g.cs
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\Seller_Window.baml
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\Selling_Window.baml
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\Bill_Window.g.cs
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\Bill_Window.baml
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\BillC_Window.g.cs
+F:\learnInUnivercity\PRN221\Project\Mini_market Managerment Systerm\Mini_market Managerment Systerm\obj\Debug\net6.0-windows\BillC_Window.baml
